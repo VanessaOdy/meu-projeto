@@ -8,8 +8,11 @@ Criação do Token
 ![Captura de tela 2025-05-21 193832](https://github.com/user-attachments/assets/a315edd9-7a13-4647-8a40-4f0998f0d4d8)
 
 Repositório local: Criado com git init.
+
 Commits: Adicionados com git add e git commit.
+
 Repositório remoto: Conectado ao GitHub com git remote add e git push.
+
 Branches: Criadas, mescladascom git checkout, git merge.
 ![Captura de tela 2025-05-21 194416](https://github.com/user-attachments/assets/033c0cde-dd8e-46fe-b38a-fc0bbe280eab)
 ![Captura de tela 2025-05-21 194537](https://github.com/user-attachments/assets/3d49faa4-d5bf-4002-9ea1-c87a3252d110)
