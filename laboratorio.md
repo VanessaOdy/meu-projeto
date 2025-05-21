@@ -1,4 +1,5 @@
-﻿# COnfigurando o Git nome e e-mail
+﻿# Atividade de aprendizagem à distância 2 (AD2)
+Configurando o Git nome e e-mail
 ![Captura de tela 2025-05-21 121233](https://github.com/user-attachments/assets/147591fe-85f9-45bf-8ebc-e65c6a85d7a5)
 ![Captura de tela 2025-05-21 121251](https://github.com/user-attachments/assets/c73533b0-809b-4b91-be3c-59a400af7f80)
 
